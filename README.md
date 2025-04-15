@@ -48,6 +48,6 @@ This is a basic **client-server socket application** implemented in **Python**, 
 |-----------------------|-------------------------------------------|
 | Aidan Potter          | Server-side Reviewer                      |
 | Quinn Hankes          | Client-side Reviewer                      |
-| Sarah Singhirunnusorn | CLient & Server Developer                 |
+| Sarah Singhirunnusorn | Client & Server Developer                 |
 
 ---
