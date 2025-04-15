@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-This is a basic **client-server socket application** implemented in **Python**, which allows multiple users to communciate through messages in real-time over a local network.
-
-The server manages connections and broadcasts messages to all connected clients, while each client connects via a simple terminal interface.
+This is a basic **client-server socket application** implemented in **Python**, which allows multiple users to communciate through messages in real-time over a local network. The server manages connections and broadcasts messages to all connected clients, while each client connects via a simple terminal interface.
 
 ## How to run
 - run "pip install colorama"
@@ -48,8 +46,8 @@ The server manages connections and broadcasts messages to all connected clients,
 
 | Name                  | Role                                      |
 |-----------------------|-------------------------------------------|
-| Aidan Potter          | Server-side Development                   |
-| Quinn Hankes          | Client-side Development                   |
-| Sarah Singhirunnusorn | Project Documentation                     |
+| Aidan Potter          | Server-side Reviewer                      |
+| Quinn Hankes          | Client-side Reviewer                      |
+| Sarah Singhirunnusorn | CLient & Server Developer                 |
 
 ---
