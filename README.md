@@ -6,6 +6,11 @@ This is a basic **client-server socket application** implemented in **Python**, 
 
 The server manages connections and broadcasts messages to all connected clients, while each client connects via a simple terminal interface.
 
+## How to run
+- run "pip install colorama"
+- make sure to have python installed
+- run server first using "python server.py"
+- next run client, using "python client.py"
 
 
 ## Features
