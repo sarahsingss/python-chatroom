@@ -46,8 +46,8 @@ This is a basic **client-server socket application** implemented in **Python**, 
 
 | Name                  | Role                                      |
 |-----------------------|-------------------------------------------|
-| Aidan Potter          | Server-side Reviewer                      |
-| Quinn Hankes          | Client-side Reviewer                      |
+| Aidan Potter          | Server-Side Developer and Reviewer        |
+| Quinn Hankes          | Client-Side Developer and Reviewer        |
 | Sarah Singhirunnusorn | Client & Server Developer                 |
 
 ---
