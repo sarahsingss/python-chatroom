@@ -1,4 +1,4 @@
-# Python Chatroom Application
+# Chatroom Application
 
 ## Project Overview
 
@@ -6,18 +6,17 @@ This is a basic **client-server socket application** implemented in **Python**, 
 
 The server manages connections and broadcasts messages to all connected clients, while each client connects via a simple terminal interface.
 
----
 
-## 🛠️ Features
+
+## Features
 
 - Real-time multi-user communication using sockets
 - Concurrent client handling using Python's `threading` module
 - User nickname registration and message broadcasting
 - Does not require any third-party dependencies
 
----
 
-## 🧠 How It Works
+## How it works
 
 1. **Server**:  
     - Accepts and manages incoming client connections  
@@ -30,7 +29,6 @@ The server manages connections and broadcasts messages to all connected clients,
     - Utilizes multithreading to send and receive messages simultaneously  
     - Users interact with the application via a simple command-line interface 
 
----
 
 ## Software Framewok
 
@@ -40,7 +38,6 @@ The server manages connections and broadcasts messages to all connected clients,
 - **IDE**: Visual Studio Code
 - **Version Control**: Git + GitHub
 
----
 
 ## Team Members and Roles
 
