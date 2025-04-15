@@ -43,8 +43,8 @@ The server manages connections and broadcasts messages to all connected clients,
 
 | Name                  | Role                                      |
 |-----------------------|-------------------------------------------|
-| Aidan Potter          | Server-side Development / Socket Logic    |
-| Quinnlan Hankes       | Client-side Development / Terminal UI     |
+| Aidan Potter          | Server-side Development                   |
+| Quinn Hankes          | Client-side Development                   |
 | Sarah Singhirunnusorn | Project Documentation                     |
 
 ---
