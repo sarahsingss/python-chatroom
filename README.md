@@ -41,13 +41,3 @@ This is a basic **client-server socket application** implemented in **Python**, 
 - **IDE**: Visual Studio Code
 - **Version Control**: Git + GitHub
 
-
-## Team Members and Roles
-
-| Name                  | Role                                      |
-|-----------------------|-------------------------------------------|
-| Aidan Potter          | Server-Side Developer and Reviewer        |
-| Quinn Hankes          | Client-Side Developer and Reviewer        |
-| Sarah Singhirunnusorn | Client & Server Developer                 |
-
----
